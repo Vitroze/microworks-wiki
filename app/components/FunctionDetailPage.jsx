@@ -42,7 +42,6 @@ const FunctionSignature = ({ func }) => {
   );
   
   parts.push(<span key="paren1" className="text-gray-400">(</span>);
-  console.log(func)
   if (func.arguments && func.arguments.length > 0) {
     func.arguments.forEach((arg, idx) => {
       if (idx > 0) {
