@@ -1,0 +1,437 @@
+{
+  "general": {
+    "name": "General",
+    "count": 4,
+    "items": [
+      {
+        "name": "CustomLevelManager",
+        "url": "https://agiriko.digital/docs/CustomLevelManager.html",
+        "slug": "CustomLevelManager"
+      },
+      {
+        "name": "Global",
+        "url": "https://agiriko.digital/docs/Global.html",
+        "slug": "Global"
+      },
+      {
+        "name": "WorldInfo",
+        "url": "https://agiriko.digital/docs/WorldInfo.html",
+        "slug": "WorldInfo"
+      },
+      {
+        "name": "XorShift",
+        "url": "https://agiriko.digital/docs/XorShift.html",
+        "slug": "XorShift"
+      }
+    ]
+  },
+  "types": {
+    "name": "Types",
+    "count": 5,
+    "items": [
+      {
+        "name": "LuaByteArray",
+        "url": "https://agiriko.digital/docs/LuaByteArray.html",
+        "slug": "LuaByteArray"
+      },
+      {
+        "name": "LuaCastHit",
+        "url": "https://agiriko.digital/docs/LuaCastHit.html",
+        "slug": "LuaCastHit"
+      },
+      {
+        "name": "LuaColor",
+        "url": "https://agiriko.digital/docs/LuaColor.html",
+        "slug": "LuaColor"
+      },
+      {
+        "name": "LuaQuaternion",
+        "url": "https://agiriko.digital/docs/LuaQuaternion.html",
+        "slug": "LuaQuaternion"
+      },
+      {
+        "name": "LuaVector3",
+        "url": "https://agiriko.digital/docs/LuaVector3.html",
+        "slug": "LuaVector3"
+      }
+    ]
+  },
+  "resources": {
+    "name": "Resources",
+    "count": 5,
+    "items": [
+      {
+        "name": "AudioResource",
+        "url": "https://agiriko.digital/docs/AudioResource.html",
+        "slug": "AudioResource"
+      },
+      {
+        "name": "MaterialResource",
+        "url": "https://agiriko.digital/docs/MaterialResource.html",
+        "slug": "MaterialResource"
+      },
+      {
+        "name": "ModelResource",
+        "url": "https://agiriko.digital/docs/ModelResource.html",
+        "slug": "ModelResource"
+      },
+      {
+        "name": "SkyboxResource",
+        "url": "https://agiriko.digital/docs/SkyboxResource.html",
+        "slug": "SkyboxResource"
+      },
+      {
+        "name": "TextureResource",
+        "url": "https://agiriko.digital/docs/TextureResource.html",
+        "slug": "TextureResource"
+      }
+    ]
+  },
+  "wrappers": {
+    "name": "Wrappers",
+    "count": 36,
+    "items": [
+      {
+        "name": "AudioSourceWrapper",
+        "url": "https://agiriko.digital/docs/AudioSourceWrapper.html",
+        "slug": "AudioSourceWrapper"
+      },
+      {
+        "name": "BloomPostProcessingLayerWrapper",
+        "url": "https://agiriko.digital/docs/BloomPostProcessingLayerWrapper.html",
+        "slug": "BloomPostProcessingLayerWrapper"
+      },
+      {
+        "name": "BouncerWrapper",
+        "url": "https://agiriko.digital/docs/BouncerWrapper.html",
+        "slug": "BouncerWrapper"
+      },
+      {
+        "name": "ColorAdjustmentsPostProcessingLayerWrapper",
+        "url": "https://agiriko.digital/docs/ColorAdjustmentsPostProcessingLayerWrapper.html",
+        "slug": "ColorAdjustmentsPostProcessingLayerWrapper"
+      },
+      {
+        "name": "ComponentWrapper",
+        "url": "https://agiriko.digital/docs/ComponentWrapper.html",
+        "slug": "ComponentWrapper"
+      },
+      {
+        "name": "DecalWrapper",
+        "url": "https://agiriko.digital/docs/DecalWrapper.html",
+        "slug": "DecalWrapper"
+      },
+      {
+        "name": "FogPostProcessingLayerWrapper",
+        "url": "https://agiriko.digital/docs/FogPostProcessingLayerWrapper.html",
+        "slug": "FogPostProcessingLayerWrapper"
+      },
+      {
+        "name": "GameObjectWrapper",
+        "url": "https://agiriko.digital/docs/GameObjectWrapper.html",
+        "slug": "GameObjectWrapper"
+      },
+      {
+        "name": "KillerWrapper",
+        "url": "https://agiriko.digital/docs/KillerWrapper.html",
+        "slug": "KillerWrapper"
+      },
+      {
+        "name": "LightWrapper",
+        "url": "https://agiriko.digital/docs/LightWrapper.html",
+        "slug": "LightWrapper"
+      },
+      {
+        "name": "LuaMicrogameWrapper",
+        "url": "https://agiriko.digital/docs/LuaMicrogameWrapper.html",
+        "slug": "LuaMicrogameWrapper"
+      },
+      {
+        "name": "MeshRendererWrapper",
+        "url": "https://agiriko.digital/docs/MeshRendererWrapper.html",
+        "slug": "MeshRendererWrapper"
+      },
+      {
+        "name": "MicrogameCoordinatorWrapper",
+        "url": "https://agiriko.digital/docs/MicrogameCoordinatorWrapper.html",
+        "slug": "MicrogameCoordinatorWrapper"
+      },
+      {
+        "name": "MonoBehaviourWrapper",
+        "url": "https://agiriko.digital/docs/MonoBehaviourWrapper.html",
+        "slug": "MonoBehaviourWrapper"
+      },
+      {
+        "name": "NetworkBehaviourWrapper",
+        "url": "https://agiriko.digital/docs/NetworkBehaviourWrapper.html",
+        "slug": "NetworkBehaviourWrapper"
+      },
+      {
+        "name": "NetworkSpawnerWrapper",
+        "url": "https://agiriko.digital/docs/NetworkSpawnerWrapper.html",
+        "slug": "NetworkSpawnerWrapper"
+      },
+      {
+        "name": "PDAWrapper",
+        "url": "https://agiriko.digital/docs/PDAWrapper.html",
+        "slug": "PDAWrapper"
+      },
+      {
+        "name": "PlayerControllerWrapper",
+        "url": "https://agiriko.digital/docs/PlayerControllerWrapper.html",
+        "slug": "PlayerControllerWrapper"
+      },
+      {
+        "name": "PostProcessingLayerWrapper",
+        "url": "https://agiriko.digital/docs/PostProcessingLayerWrapper.html",
+        "slug": "PostProcessingLayerWrapper"
+      },
+      {
+        "name": "ProbeWrapper",
+        "url": "https://agiriko.digital/docs/ProbeWrapper.html",
+        "slug": "ProbeWrapper"
+      },
+      {
+        "name": "ProjectileWrapper",
+        "url": "https://agiriko.digital/docs/ProjectileWrapper.html",
+        "slug": "ProjectileWrapper"
+      },
+      {
+        "name": "RectTransformWrapper",
+        "url": "https://agiriko.digital/docs/RectTransformWrapper.html",
+        "slug": "RectTransformWrapper"
+      },
+      {
+        "name": "ScenePlatformsWrapper",
+        "url": "https://agiriko.digital/docs/ScenePlatformsWrapper.html",
+        "slug": "ScenePlatformsWrapper"
+      },
+      {
+        "name": "SkyPostProcessingLayerWrapper",
+        "url": "https://agiriko.digital/docs/SkyPostProcessingLayerWrapper.html",
+        "slug": "SkyPostProcessingLayerWrapper"
+      },
+      {
+        "name": "TargetIndicatorWrapper",
+        "url": "https://agiriko.digital/docs/TargetIndicatorWrapper.html",
+        "slug": "TargetIndicatorWrapper"
+      },
+      {
+        "name": "TeleporterWrapper",
+        "url": "https://agiriko.digital/docs/TeleporterWrapper.html",
+        "slug": "TeleporterWrapper"
+      },
+      {
+        "name": "TowerBarriersWrapper",
+        "url": "https://agiriko.digital/docs/TowerBarriersWrapper.html",
+        "slug": "TowerBarriersWrapper"
+      },
+      {
+        "name": "TowerTilesWrapper",
+        "url": "https://agiriko.digital/docs/TowerTilesWrapper.html",
+        "slug": "TowerTilesWrapper"
+      },
+      {
+        "name": "TransformWrapper",
+        "url": "https://agiriko.digital/docs/TransformWrapper.html",
+        "slug": "TransformWrapper"
+      },
+      {
+        "name": "TriggerWrapper",
+        "url": "https://agiriko.digital/docs/TriggerWrapper.html",
+        "slug": "TriggerWrapper"
+      },
+      {
+        "name": "UIImageWrapper",
+        "url": "https://agiriko.digital/docs/UIImageWrapper.html",
+        "slug": "UIImageWrapper"
+      },
+      {
+        "name": "UITextMeshWrapper",
+        "url": "https://agiriko.digital/docs/UITextMeshWrapper.html",
+        "slug": "UITextMeshWrapper"
+      },
+      {
+        "name": "UnityObjectWrapper",
+        "url": "https://agiriko.digital/docs/UnityObjectWrapper.html",
+        "slug": "UnityObjectWrapper"
+      },
+      {
+        "name": "VolumeWrapper",
+        "url": "https://agiriko.digital/docs/VolumeWrapper.html",
+        "slug": "VolumeWrapper"
+      },
+      {
+        "name": "WeaponBaseWrapper",
+        "url": "https://agiriko.digital/docs/WeaponBaseWrapper.html",
+        "slug": "WeaponBaseWrapper"
+      },
+      {
+        "name": "WeaponPickableWrapper",
+        "url": "https://agiriko.digital/docs/WeaponPickableWrapper.html",
+        "slug": "WeaponPickableWrapper"
+      }
+    ]
+  },
+  "events": {
+    "name": "Events",
+    "count": 31,
+    "items": [
+      {
+        "name": "AvatarReceivedEvent",
+        "url": "https://agiriko.digital/docs/AvatarReceivedEvent.html",
+        "slug": "AvatarReceivedEvent"
+      },
+      {
+        "name": "I18nReloadEvent",
+        "url": "https://agiriko.digital/docs/I18nReloadEvent.html",
+        "slug": "I18nReloadEvent"
+      },
+      {
+        "name": "ImpulseEvent",
+        "url": "https://agiriko.digital/docs/ImpulseEvent.html",
+        "slug": "ImpulseEvent"
+      },
+      {
+        "name": "LuaChatEvent",
+        "url": "https://agiriko.digital/docs/LuaChatEvent.html",
+        "slug": "LuaChatEvent"
+      },
+      {
+        "name": "OnStepEvent",
+        "url": "https://agiriko.digital/docs/OnStepEvent.html",
+        "slug": "OnStepEvent"
+      },
+      {
+        "name": "PDAInputResponseEvent",
+        "url": "https://agiriko.digital/docs/PDAInputResponseEvent.html",
+        "slug": "PDAInputResponseEvent"
+      },
+      {
+        "name": "PDASequenceResponseEvent",
+        "url": "https://agiriko.digital/docs/PDASequenceResponseEvent.html",
+        "slug": "PDASequenceResponseEvent"
+      },
+      {
+        "name": "PDATriviaResponseEvent",
+        "url": "https://agiriko.digital/docs/PDATriviaResponseEvent.html",
+        "slug": "PDATriviaResponseEvent"
+      },
+      {
+        "name": "PlatformEnteredEvent",
+        "url": "https://agiriko.digital/docs/PlatformEnteredEvent.html",
+        "slug": "PlatformEnteredEvent"
+      },
+      {
+        "name": "PlatformLeftEvent",
+        "url": "https://agiriko.digital/docs/PlatformLeftEvent.html",
+        "slug": "PlatformLeftEvent"
+      },
+      {
+        "name": "PlayerDiedEvent",
+        "url": "https://agiriko.digital/docs/PlayerDiedEvent.html",
+        "slug": "PlayerDiedEvent"
+      },
+      {
+        "name": "PlayerEmoteEvent",
+        "url": "https://agiriko.digital/docs/PlayerEmoteEvent.html",
+        "slug": "PlayerEmoteEvent"
+      },
+      {
+        "name": "PlayerFailedFireEvent",
+        "url": "https://agiriko.digital/docs/PlayerFailedFireEvent.html",
+        "slug": "PlayerFailedFireEvent"
+      },
+      {
+        "name": "PlayerFiredEvent",
+        "url": "https://agiriko.digital/docs/PlayerFiredEvent.html",
+        "slug": "PlayerFiredEvent"
+      },
+      {
+        "name": "PlayerJoinedEvent",
+        "url": "https://agiriko.digital/docs/PlayerJoinedEvent.html",
+        "slug": "PlayerJoinedEvent"
+      },
+      {
+        "name": "PlayerLeftEvent",
+        "url": "https://agiriko.digital/docs/PlayerLeftEvent.html",
+        "slug": "PlayerLeftEvent"
+      },
+      {
+        "name": "PlayerPartyPassOwnershipChangedEvent",
+        "url": "https://agiriko.digital/docs/PlayerPartyPassOwnershipChangedEvent.html",
+        "slug": "PlayerPartyPassOwnershipChangedEvent"
+      },
+      {
+        "name": "PlayerPickedPowerupEvent",
+        "url": "https://agiriko.digital/docs/PlayerPickedPowerupEvent.html",
+        "slug": "PlayerPickedPowerupEvent"
+      },
+      {
+        "name": "PlayerPushedEvent",
+        "url": "https://agiriko.digital/docs/PlayerPushedEvent.html",
+        "slug": "PlayerPushedEvent"
+      },
+      {
+        "name": "PlayerSetBlockStateEvent",
+        "url": "https://agiriko.digital/docs/PlayerSetBlockStateEvent.html",
+        "slug": "PlayerSetBlockStateEvent"
+      },
+      {
+        "name": "PlayerSpawnedEvent",
+        "url": "https://agiriko.digital/docs/PlayerSpawnedEvent.html",
+        "slug": "PlayerSpawnedEvent"
+      },
+      {
+        "name": "PlayerStateChangedEvent",
+        "url": "https://agiriko.digital/docs/PlayerStateChangedEvent.html",
+        "slug": "PlayerStateChangedEvent"
+      },
+      {
+        "name": "PlayerTeamUpdatedEvent",
+        "url": "https://agiriko.digital/docs/PlayerTeamUpdatedEvent.html",
+        "slug": "PlayerTeamUpdatedEvent"
+      },
+      {
+        "name": "ScriptCollisionEvent",
+        "url": "https://agiriko.digital/docs/ScriptCollisionEvent.html",
+        "slug": "ScriptCollisionEvent"
+      },
+      {
+        "name": "ScriptTriggerEnterEvent",
+        "url": "https://agiriko.digital/docs/ScriptTriggerEnterEvent.html",
+        "slug": "ScriptTriggerEnterEvent"
+      },
+      {
+        "name": "ScriptTriggerLeftEvent",
+        "url": "https://agiriko.digital/docs/ScriptTriggerLeftEvent.html",
+        "slug": "ScriptTriggerLeftEvent"
+      },
+      {
+        "name": "WeaponAttachedEvent",
+        "url": "https://agiriko.digital/docs/WeaponAttachedEvent.html",
+        "slug": "WeaponAttachedEvent"
+      },
+      {
+        "name": "WeaponDetachedEvent",
+        "url": "https://agiriko.digital/docs/WeaponDetachedEvent.html",
+        "slug": "WeaponDetachedEvent"
+      },
+      {
+        "name": "WeaponPickedUpEvent",
+        "url": "https://agiriko.digital/docs/WeaponPickedUpEvent.html",
+        "slug": "WeaponPickedUpEvent"
+      },
+      {
+        "name": "WeaponSpawnedEvent",
+        "url": "https://agiriko.digital/docs/WeaponSpawnedEvent.html",
+        "slug": "WeaponSpawnedEvent"
+      },
+      {
+        "name": "XpChangedEvent",
+        "url": "https://agiriko.digital/docs/XpChangedEvent.html",
+        "slug": "XpChangedEvent"
+      }
+    ]
+  }
+}
